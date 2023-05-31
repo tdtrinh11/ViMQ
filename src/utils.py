@@ -19,7 +19,7 @@ MODEL_CLASSES = {
 }
 
 MODEL_PATH_MAP = {
-    'vimq_model': "/workspace/vinbrain/vutran/Backbone/phoBERT/"
+    'vimq_model': "vinai/phobert-base"
 }
 
 def init_logger():
